@@ -1,1 +1,1 @@
-Site: https://brianahn1210.github.io/
+Personal Website. Made by Brian Ahn: https://brianahn1210.github.io/
